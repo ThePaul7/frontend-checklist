@@ -8,7 +8,7 @@
 ## 1. Before development
 
 ## 1.1. UX Output
-**Frontend developer should see the design before it goes to the client for approval. In this way we can prevent asking the client for repetitive approvals, if we have to change the design because of some technical issues, design issues etc.**
+**Frontend developer should see the design before it goes to the approval. In this way we can prevent asking for repetitive approvals, if we have to change the design because of some technical issues, design issues etc.**
 
 ### 1.1.1. Graphic sources
 
@@ -143,8 +143,6 @@ Styleguide describes all elements and components, their behavior, style, usage a
 
 ##### Example
 
-* [Animations](http://intranet/Wiki-Actum/Development/Front-end/Best-Practice/Animations)
-* [UI-microinteractions](http://intranet/Wiki-Actum/Development/Front-end/Best-Practice/UI-microinteractions)
 * [Possible list of prototyping tools](http://www.creativebloq.com/web-design/top-10-prototyping-tools-2016-21619216)
 
 ##### Outcomes
@@ -160,7 +158,7 @@ Matrix of supported browsers should be defined and agreed on with the client.
 
 #### Outcomes
 
-* QA engiers know which browsers to test in
+* Product know which browsers to test in
 * Developers know which features they can use
 
 #### Example
@@ -179,9 +177,7 @@ Matrix of supported browsers should be defined and agreed on with the client.
 
 ### 1.2.2. Dev Stack
 
-Use the latest versions of the [gulp dev stack](https://github.com/actum/gulp-dev-stack).
-In case you need more features, add them within the project.
-You can also [raise an issue on Github](https://github.com/actum/gulp-dev-stack/issues) and discuss an addition of the feature to the dev stack there.
+Use the latest versions of the [gulp dev stack] TODO.
 
 #### Outcomes
 
@@ -194,8 +190,8 @@ You can also [raise an issue on Github](https://github.com/actum/gulp-dev-stack/
 
 ### 2.1. Best Practices
 
-* Write the code according to best practices [http://intranet/Wiki-Actum/Development/Front-end/Best-Practice/Coding-style](http://intranet/Wiki-Actum/Development/Front-end/Best-Practice/Coding-style)
-* Use our CSS naming conventions ([http://intranet/Wiki-Actum/Development/Front-end/Best-Practice/CSS-Guidelines](http://intranet/Wiki-Actum/Development/Front-end/Best-Practice/CSS-Guidelines)
+* Write the code according to best practices TODO
+* Use our CSS naming conventions TODO
 * Maintain living styleguide using the dev stack
 * Make sure favicon, touch icons, OG images are implemented
 
@@ -210,7 +206,7 @@ You can also [raise an issue on Github](https://github.com/actum/gulp-dev-stack/
 
 ## 3. After development
 
-* Add readme.md with info how to use dev stack etc. Also put this info to the [project page in Intranet](http://intranet/Wiki-Actum/Development/Front-end/Projects).
+TODO
 
 ### 3.1. Browser compatibility
 
